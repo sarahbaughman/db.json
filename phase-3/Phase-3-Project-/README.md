@@ -1,5 +1,5 @@
 # Phase 3 CLI Project Template
-
+hello
 ## Learning Goals
 
 - Discuss the basic directory structure of a CLI.
